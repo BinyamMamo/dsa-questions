@@ -1,6 +1,4 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
+# LeetCode Solutions
 ## Math
 |  |
 | ------- |
@@ -14,4 +12,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/BinyamMamo/dsa-questions/tree/master/0206-reverse-linked-list) |
-<!---LeetCode Topics End-->
+<!--LeedCode Topics End-->
+
+# HackerRank Solutions
+- [Arithmetic Operators](hackerrank/arithmetic_operators.py)
+- [Division](hackerrank/division.py)
+- [sWAP cASE](hackerrank/swap_case.py)
+- [String Split and Join](hackerrank/string_split_and_join.py)
+- [What's Your Name?](hackerrank/whats_your_name.py)
+- [Weird (If-Else)](hackerrank/weird_if_else.py)
+- [Loops](hackerrank/loops.py)
+- [Mod Power](hackerrank/mod_power.py)
+- [List Comprehensions](hackerrank/list_comprehensions.py)
+- [Dictionaries and Maps](hackerrank/dictionaries_and_maps.py)
+- [Mutate String](hackerrank/mutate_string.py)
+- [Left Rotation](hackerrank/left_rotation.py)
+
+# Codeforces Solutions
+- [Watermelon](codeforces/watermelon.py)
+- [Sum](codeforces/sum.py)
