@@ -31,3 +31,7 @@
 # Codeforces Solutions
 - [Watermelon](codeforces/watermelon.py)
 - [Sum](codeforces/sum.py)
+# GeeksForGeeks Solutions
+- [Union of Two Arrays](geeksforgeeks/union_of_two_arrays.py)
+- [Check if two arrays are equal](geeksforgeeks/check_equal_arrays.py)
+- [Array Subset of another array](geeksforgeeks/array_subset.py)
