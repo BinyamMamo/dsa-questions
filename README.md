@@ -1,9 +1,5 @@
 # LeetCode Solutions
-## Math
-|  |
-| ------- |
-| [0009-palindrome-number](https://github.com/BinyamMamo/dsa-questions/tree/master/0009-palindrome-number) |
-| [2469-convert-the-temperature](https://github.com/BinyamMamo/dsa-questions/tree/master/2469-convert-the-temperature) |
+
 ## Linked List
 |  |
 | ------- |
@@ -35,3 +31,20 @@
 - [Union of Two Arrays](geeksforgeeks/union_of_two_arrays.py)
 - [Check if two arrays are equal](geeksforgeeks/check_equal_arrays.py)
 - [Array Subset of another array](geeksforgeeks/array_subset.py)
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/BinyamMamo/dsa-questions/tree/master/0048-rotate-image) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/BinyamMamo/dsa-questions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/BinyamMamo/dsa-questions/tree/master/0048-rotate-image) |
+| [2469-convert-the-temperature](https://github.com/BinyamMamo/dsa-questions/tree/master/2469-convert-the-temperature) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/BinyamMamo/dsa-questions/tree/master/0048-rotate-image) |
+<!---LeetCode Topics End-->
