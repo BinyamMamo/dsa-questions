@@ -42,9 +42,18 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/BinyamMamo/dsa-questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/BinyamMamo/dsa-questions/tree/master/0048-rotate-image) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/BinyamMamo/dsa-questions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2469-convert-the-temperature](https://github.com/BinyamMamo/dsa-questions/tree/master/2469-convert-the-temperature) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/BinyamMamo/dsa-questions/tree/master/0048-rotate-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/BinyamMamo/dsa-questions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+## Combinatorics
+|  |
+| ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/BinyamMamo/dsa-questions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 <!---LeetCode Topics End-->
