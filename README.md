@@ -37,12 +37,14 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/BinyamMamo/dsa-questions/tree/master/0048-rotate-image) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/BinyamMamo/dsa-questions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/BinyamMamo/dsa-questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/BinyamMamo/dsa-questions/tree/master/0048-rotate-image) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/BinyamMamo/dsa-questions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/BinyamMamo/dsa-questions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2469-convert-the-temperature](https://github.com/BinyamMamo/dsa-questions/tree/master/2469-convert-the-temperature) |
 ## Matrix
 |  |
@@ -56,4 +58,16 @@
 |  |
 | ------- |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/BinyamMamo/dsa-questions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+## Sorting
+|  |
+| ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/BinyamMamo/dsa-questions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/BinyamMamo/dsa-questions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Number Theory
+|  |
+| ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/BinyamMamo/dsa-questions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 <!---LeetCode Topics End-->
