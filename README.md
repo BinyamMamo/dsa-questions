@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/BinyamMamo/dsa-questions/tree/master/0048-rotate-image) |
+| [0798-smallest-rotation-with-highest-score](https://github.com/BinyamMamo/dsa-questions/tree/master/0798-smallest-rotation-with-highest-score) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/BinyamMamo/dsa-questions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Math
 |  |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/BinyamMamo/dsa-questions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Prefix Sum
+|  |
+| ------- |
+| [0798-smallest-rotation-with-highest-score](https://github.com/BinyamMamo/dsa-questions/tree/master/0798-smallest-rotation-with-highest-score) |
 <!---LeetCode Topics End-->
