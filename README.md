@@ -54,6 +54,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/BinyamMamo/dsa-questions/tree/master/0583-delete-operation-for-two-strings) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/BinyamMamo/dsa-questions/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Combinatorics
 |  |
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [0798-smallest-rotation-with-highest-score](https://github.com/BinyamMamo/dsa-questions/tree/master/0798-smallest-rotation-with-highest-score) |
+## String
+|  |
+| ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/BinyamMamo/dsa-questions/tree/master/0583-delete-operation-for-two-strings) |
 <!---LeetCode Topics End-->
