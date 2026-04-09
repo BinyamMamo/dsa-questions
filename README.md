@@ -81,4 +81,9 @@
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/BinyamMamo/dsa-questions/tree/master/0583-delete-operation-for-two-strings) |
+| [1410-html-entity-parser](https://github.com/BinyamMamo/dsa-questions/tree/master/1410-html-entity-parser) |
+## Hash Table
+|  |
+| ------- |
+| [1410-html-entity-parser](https://github.com/BinyamMamo/dsa-questions/tree/master/1410-html-entity-parser) |
 <!---LeetCode Topics End-->
